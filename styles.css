@@ -20,3 +20,10 @@
     background-color: grey;
     color: black;
 }
+.content{
+    display: block;
+    width: fit-content;
+    margin-top: 100px;
+    margin-inline: auto;
+    padding: 50px;
+}
