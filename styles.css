@@ -1,0 +1,22 @@
+
+
+.header{
+    display: block;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.txt{
+    width: 200px;
+    height: 20px;
+    padding-inline: 50px;
+    box-shadow: 0 0 10px black;
+}
+
+.btn{
+    width: 50px;
+    height: 25px;
+    background-color: grey;
+    color: black;
+}
