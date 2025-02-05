@@ -11,7 +11,7 @@ button.addEventListener("click",async ()=>{
 
 
 async function getData(user){
-    console.log("initialized");
+    // console.log("initialized");
     const res = await fetch(`https://api.github.com/users/${user}`);
     const data = await res.json();
     return data;
